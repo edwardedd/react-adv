@@ -1,0 +1,10 @@
+function EventDetailPage(){
+
+  return (
+    <div>
+      <p>EventDetailPage</p>
+    </div>
+  )
+}
+
+export  default EventDetailPage;

@@ -1,0 +1,10 @@
+function EventsRoot() {
+  return (
+    <>
+      <EventsNavigation />
+      <EventsPage />
+    </>
+  );
+}
+
+export default EventsRoot;
